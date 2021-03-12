@@ -1,6 +1,6 @@
-# Graphene samples
+# Polycrystalline graphene samples
 
-Polycristalline graphene samples generated according to the D’Ambrosio, Barkema and Barkema paper. 
+Polycrystalline graphene samples generated according to the D’Ambrosio, Barkema and Barkema paper. 
 
 The samples are tab-separated files with the following format.
 
