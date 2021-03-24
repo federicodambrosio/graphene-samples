@@ -7,7 +7,7 @@ Polycrystalline graphene samples generated for the paper "Efficient structural r
 - 10024 atoms at 696 eV
 - 20000 atoms at 1488 eV 
 
-The samples are available under Creative Commons Attribution 4.0 International license. If you're using them for your research, we would appreciate a citation. 
+The samples are available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode). If you're using them for your research, we would appreciate a citation. 
 
 The samples are tab-separated files with the following format.
 
