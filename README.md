@@ -11,7 +11,7 @@ The samples are available under [Creative Commons Attribution 4.0 International 
 
 The samples are tab-separated files with the following format.
 
-- A prelude with:
+A prelude with:
 ```
 Periodic boundaries size on the x-axis
 Periodic boundaries size on the y-axis
