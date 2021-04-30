@@ -2,10 +2,11 @@
 
 Polycrystalline graphene samples generated for the paper "Efficient structural relaxation of polycrystalline graphene models", Federico D’Ambrosio, Joris Barkema and Gerard T. Barkema, to be published (2021).
 
-- 3200 atoms at 625 eV
-- 3200 atoms at 200 eV
-- 10024 atoms at 696 eV
-- 20000 atoms at 1488 eV 
+- 3200 atoms at 625 eV;
+- 3200 atoms at ~200 eV, relaxed with the Early Rejection method (section 2.1 and 3.1);
+- 3200 atoms at ~200 eV, relaxed with full relaxation after each bond transposition;
+- 10024 atoms at 696 eV;
+- 20000 atoms at 1488 eV; 
 
 The samples are available under Creative Commons Attribution 4.0 International license. If you're using them for your research, we would appreciate a citation. 
 
